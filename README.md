@@ -1,13 +1,37 @@
-- 👋 Hi, I’m Bharathraj
-- 👀 Turning curiosity into cybersecurity solutions.
-- 💻 Cybersecurity & Ethical Hacking Enthusiast
-- 🐍 Currently learning Python, bash and Ethical Hacking
-- 🛡️ Passionate about building skills to secure digital worlds
-- 💞️ I’m looking to collaborate for a Capture The Flag (CTF) challenge Fan of open-source and collaborative learning
-- Tech Stack
-Languages: Python, HTML, Bash, C, JAVA ,Javascript .
-Tools: Git, Linux, VS Code, Wireshark, Burp Suite ,john the ripper ,autopsy ,FTK Imager.
-<!---
-Bharathraj721/Bharathraj721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Bharathraj M</h1>
+<h3 align="center">Cybersecurity & Ethical Hacking Enthusiast | Python Developer | Aspiring Cybercrime Officer</h3>
+
+---
+
+🔐 Passionate about **Cybersecurity**, **Digital Forensics**, and building secure applications using **Python**  
+👨‍💻 Intern @ NullClass | Building Kingsman Nexus  
+🎯 Preparing for Government Cybercrime Exams
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript
+- 🧰 Tools: Kali Linux, Burp Suite, Wireshark, Nmap, Metasploit
+- 🐧 OS: Linux, Windows
+- 💡 Concepts: RPA, Active Directory Exploitation, CTFs, OSINT
+
+---
+
+## 📂 Featured Projects
+- 🔹 [Kingsman Nexus](#) — Cybersecurity Learning Platform (Coming soon)
+- 🔹 [TryHackMe Labs](#) — Custom AD Exploitation Lab
+- 🔹 [HackTheBox Reports](#) — Write-ups & Reports (Private until released)
+
+---
+
+## 📜 Certifications
+- ✅ RPA Advanced AAU Certification  
+- ✅ NullClass Internship  
+- ✅ TryHackMe Labs (AD, Pentesting, etc.)
+
+---
+
+📫 **Reach me at**:  
+[LinkedIn](https://linkedin.com/in/bharathraj-m-34a867245) | [GitHub](https://github.com/Bharathraj721)
+
+---
