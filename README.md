@@ -1,3 +1,5 @@
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharathraj721&show_icons=true&theme=tokyonight)
+
 <h1 align="center">Hi 👋, I'm Bharathraj M</h1>
 <h3 align="center">Cybersecurity & Ethical Hacking Enthusiast | Python Developer | Aspiring Cybercrime Officer</h3>
 
