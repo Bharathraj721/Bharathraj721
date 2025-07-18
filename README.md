@@ -5,7 +5,7 @@
 
 🔐 Passionate about **Cybersecurity**, **Digital Forensics**, and building secure applications using **Python**  
 👨‍💻 Intern @ NullClass | Building Kingsman Nexus  
-🎯 Preparing for Government Cybercrime Exams
+🎯 Preparing for Cyberforensics 
 
 ---
 
